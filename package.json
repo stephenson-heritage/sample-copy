@@ -1,0 +1,31 @@
+{
+    "name": "express-sample",
+    "version": "0.1.0",
+    "description": "our first express app",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stephenson-heritage/express-sample-2022.git"
+    },
+    "keywords": [
+        "learning",
+        "tutorial",
+        "back-end"
+    ],
+    "author": "Web4R",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/stephenson-heritage/express-sample-2022/issues"
+    },
+    "homepage": "https://github.com/stephenson-heritage/express-sample-2022#readme",
+    "dependencies": {
+        "express": "^4.17.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
